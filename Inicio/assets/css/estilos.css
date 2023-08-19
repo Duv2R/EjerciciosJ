@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    /* padding: 0 50px; */
+    background-color: black;
+}
+.imaglog{
+        width: 90px;
+        height: 110px;
+}
+.inicio{
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 1.6rem;
+}
+
+.pepe{
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Fira Sans', sans-serif;
+    width: 100%; 
+    padding: 11px 10px 11px 10px;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.4rem;
+}
+
+
+
+.Caj{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+} 
+/* .button:before {
+    content: '';
+    position: absolute;
+    left: -2px;
+    top: -2px;
+    border-radius: 10px;
+    background: linear-gradient(45deg, white, blue, white, blue, white, blue, white, blue);
+    background-size: 400%;
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    z-index: -1;
+    animation: steam 20s linear infinite;
+} */
+
+.Cajalogin{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    border-radius: 5px;
+    border: white;
+    padding: 20px 0 28px;
+    width: 396px;
+    
+}
+.textA{
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 345px;
+    margin: 6px 0;
+}
+.bt1{
+    font-size: 17px;
+    padding: 5px 16px;
+    width: 380px;
+    margin: 6px 0;
+    background-color: black;
+    color: white;
+    border-bottom: white;
+    border-radius: 15px;
+}
+.inicio {
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 380px;
+    margin: 6px 0;
+    background-color: #a435f0;;
+    color: white;
+}
